@@ -1,24 +1,40 @@
-This project analyzes a dataset of 2,000 AI and machine learning job postings from 2023 to 2025 across multiple industries and geographic locations. The goal is to uncover hiring trends, salary patterns, and the most in-demand skills shaping the AI/ML job market.
+# 🚀 AI/ML Job Market Exploratory Data Analysis
 
-Dataset
-The dataset contains job titles, industries, employment types, company sizes, experience levels, salary ranges, locations, required technical skills, and preferred tools. It provides a comprehensive view of the evolving AI/ML recruitment landscape.
+## 📊 **Project Overview**
+**This project analyzes a dataset of 2,000 AI and machine learning job postings from 2023 to 2025** across multiple industries and geographic locations. The goal is to uncover hiring trends, salary patterns, and the most in-demand skills shaping the AI/ML job market.
 
-Analysis
-Data cleaning and preprocessing with Python (Pandas, NumPy)
+## 💾 **Dataset**
+**The dataset contains:**
+- Job titles, industries, employment types
+- Company sizes, experience levels, salary ranges
+- Locations, required technical skills, preferred tools
 
-Exploratory visualizations using Matplotlib and Seaborn including pie charts, bar charts, boxplots, and time-series plots
+**Provides a comprehensive view of the evolving AI/ML recruitment landscape.**
 
-Insights into top job titles, salary distributions by experience and company size, and skill demand rankings
+## 🔍 **Analysis**
+- **Data cleaning and preprocessing** with Python (Pandas, NumPy)
+- **Exploratory visualizations** using Matplotlib and Seaborn:
+  - Pie charts, bar charts, boxplots
+  - Time-series plots for hiring trends
+- **Insights into** top job titles, salary distributions, skill demand
+- **Temporal analysis** of job posting trends
+- **Outlier detection** and salary feature engineering
 
-Temporal analysis of job posting trends over time
+## ⭐ **Key Findings**
+- **Top roles**: Data Analyst, NLP Engineer, AI Product Manager
+- **Senior roles** have higher salaries; **large companies** pay better than startups
+- **Most demanded skills**: TensorFlow, PyTorch, SQL, Pandas
+- **Remote + full-time** roles dominate with stable hiring activity
 
-Identification of outliers and feature engineering for salary ranges
+## 🚀 **Usage**
+**Open the Jupyter notebook (`EDA2.ipynb`)** to replicate the analysis or extend it. **Visualizations and code are fully documented** for easy understanding.
 
-Key Findings
-Data Analyst, NLP Engineer, and AI Product Manager are among the top roles
+## 🛠️ **Technologies**
+**Python** (Pandas, NumPy, Matplotlib, Seaborn)  
+**Jupyter Notebook**
 
-Senior roles typically have higher average salaries; large companies offer better compensation compared to startups
+## 🤝 **Contributing**
+**Contributions and feedback welcome!** Open issues or pull requests.
 
-Skills like TensorFlow, PyTorch, SQL, and Pandas are highly sought after
-
-Remote and full-time roles dominate, with stable hiring activity in recent years
+## 📄 **License**
+MIT License
