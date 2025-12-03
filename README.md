@@ -33,8 +33,4 @@
 **Python** (Pandas, NumPy, Matplotlib, Seaborn)  
 **Jupyter Notebook**
 
-## 🤝 **Contributing**
-**Contributions and feedback welcome!** Open issues or pull requests.
 
-## 📄 **License**
-MIT License
